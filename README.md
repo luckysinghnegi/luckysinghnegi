@@ -1,5 +1,5 @@
 # 💫 About Me:
-’Im a self-taught frontend developer who builds clean, modern, and responsive websites using React,<br>JavaScript, HTML, and CSS,react.js.firebase, github, MERN . After completing an internship at TechlyVerse and deploying multiple projects,<br>I’m eager to work with creative teams to build interactive, user-friendly web applications and currently working with Bizowl as a full Stack intern.
+I am a self-taught frontend developer who builds clean, modern, and responsive websites using React,<br>JavaScript, HTML, and CSS,react.js.firebase, github, MERN . After completing an internship at TechlyVerse and deploying multiple projects,<br>I’m eager to work with creative teams to build interactive, user-friendly web applications and currently working with Bizowl as a full Stack intern.
 
 
 ## 🌐 Socials:
